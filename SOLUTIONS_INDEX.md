@@ -1,4 +1,4 @@
-# Solutions Index — AI Evaluation Engineer (Governance family, level 35)
+# Solutions Index — AI Assurance Engineer (Governance family, level 35)
 
 Reference implementations for [`ai-evaluation-engineer-learning`](https://github.com/ai-governance-curriculum/ai-evaluation-engineer-learning).
 
